@@ -15,3 +15,4 @@ hs_err_pid*
 ### OS x ###
 
 .DS_Store
+/App/build/
